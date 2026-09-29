@@ -89,6 +89,8 @@
     "index",
     "search",
     "element",
+    "less",
+    "compare",
     "array",
     "ndarray",
     "strided",
